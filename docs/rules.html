@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rules · awesomerea</title>
+<style>
+:root { color-scheme: light dark; --fg:#1f2328; --muted:#59636e; --bg:#ffffff;
+  --border:#d1d9e0; --accent:#0969da; --code:#f6f8fa; }
+@media (prefers-color-scheme: dark) {
+  :root { --fg:#e6edf3; --muted:#9198a1; --bg:#0d1117; --border:#3d444d;
+    --accent:#4493f8; --code:#151b23; } }
+* { box-sizing: border-box; }
+body { margin:0; font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  color:var(--fg); background:var(--bg); }
+header { border-bottom:1px solid var(--border); padding:0 24px; }
+header h1 { font-size:20px; margin:0; padding:16px 0 8px; }
+nav.tabs { display:flex; gap:4px; flex-wrap:wrap; }
+nav.tabs a { padding:8px 14px; color:var(--muted); text-decoration:none;
+  border-bottom:2px solid transparent; }
+nav.tabs a:hover { color:var(--fg); }
+nav.tabs a[aria-current="page"] { color:var(--fg); border-bottom-color:var(--accent); font-weight:600; }
+main { max-width:860px; margin:0 auto; padding:24px; }
+h1,h2,h3 { line-height:1.25; }
+h2 { border-bottom:1px solid var(--border); padding-bottom:6px; margin-top:32px; }
+a { color:var(--accent); }
+code { background:var(--code); padding:2px 5px; border-radius:6px; font-size:85%; }
+pre { background:var(--code); padding:16px; border-radius:6px; overflow:auto; }
+pre code { padding:0; background:none; }
+table { border-collapse:collapse; width:100%; display:block; overflow-x:auto; }
+th,td { border:1px solid var(--border); padding:6px 10px; text-align:left; vertical-align:top; }
+th { background:var(--code); }
+blockquote { margin:0; padding:0 1em; color:var(--muted); border-left:4px solid var(--border); }
+footer { max-width:860px; margin:0 auto; padding:0 24px 32px; color:var(--muted); font-size:14px; }
+</style>
+</head>
+<body>
+<header>
+<h1><a href="index.html" style="color:inherit;text-decoration:none">awesomerea</a></h1>
+<nav class="tabs" aria-label="Sections"><a href="index.html">README</a><a href="list.html">List</a><a href="pending.html">Pending</a><a href="submit.html">Submit</a><a href="rules.html" aria-current="page">Rules</a></nav>
+</header>
+<main>
+<h2 id="inclusion-rules">Inclusion rules</h2>
+<p>An entry must:</p>
+<ul>
+<li>use REA in a way a reader can reproduce, or be a substantive
+original writeup;</li>
+<li>state the REA version it was run against;</li>
+<li>state its limitations;</li>
+<li>not copy another project's protected code or assets, in line with
+the upstream <a
+href="https://github.com/morluto/rea/blob/main/DISCLAIMER.md">DISCLAIMER</a>;</li>
+<li>not ask readers to run unverified installers.</li>
+</ul>
+<p>Mirrors, verbatim or lightly edited copies of the upstream README,
+download pages that are not the upstream release, and projects whose
+stated purpose is to defeat REA are excluded.</p>
+<h2 id="how-candidates-are-collected">How candidates are collected</h2>
+<p><code>tools/collect.py</code> searches GitHub through the
+<code>gh</code> CLI and writes a dated snapshot under
+<code>data/snapshots/</code>. It is read-only and does not publish
+anything. Repositories excluded for a reason are listed in
+<code>data/exclusions.json</code>.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode sh"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">python3</span> tools/collect.py <span class="at">--limit</span> 100</span></code></pre></div>
+<p>Each snapshot candidate is marked <code>needs-human-review</code>.
+Upstream copies, mirrors and repositories that match only a generic
+phrase are recorded in <code>rejected.json</code> with a reason.</p>
+<p>Flags such as <code>pipe-to-shell</code>, <code>download-lure</code>
+and <code>presents-rea-as-target</code> are hints for a human, not
+verdicts. The collector cannot judge whether a project is good; every
+entry is checked by hand before it reaches the list.</p>
+<h2 id="layout">Layout</h2>
+<ul>
+<li><code>tools/collect.py</code>: the collector (standard library only,
+plus <code>gh</code>).</li>
+<li><code>data/exclusions.json</code>: repositories excluded, with
+reasons.</li>
+<li><code>data/snapshots/&lt;date&gt;/</code>: each run's candidates,
+rejected repos, errors and summary.</li>
+<li><code>data/cache/</code>: README cache, git-ignored.</li>
+</ul>
+<h2 id="publishing-the-site">Publishing the site</h2>
+<p>The tabs are generated, not hand-written.</p>
+<ol type="1">
+<li>Edit <code>README.md</code> or a file in <code>content/</code>.</li>
+<li>Run <code>python3 tools/build_site.py</code>. It needs
+<code>pandoc</code> on the PATH and rewrites
+<code>docs/*.html</code>.</li>
+<li>Commit the source and the regenerated <code>docs/</code>
+together.</li>
+</ol>
+<p>GitHub Pages serves the <code>docs/</code> folder on
+<code>main</code>. Enable it under Settings &gt; Pages, with source
+"Deploy from a branch", branch <code>main</code>, folder
+<code>/docs</code>.</p>
+
+</main>
+<footer>Generated by tools/build_site.py from README.md and content/. Edit the Markdown, not this file.</footer>
+</body>
+</html>
