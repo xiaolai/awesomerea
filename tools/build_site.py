@@ -12,11 +12,16 @@ from __future__ import annotations
 
 import html
 import pathlib
+import re
 import subprocess
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
+SANITIZER = ROOT / "tools" / "sanitize.lua"
+
+# Defence in depth: the filter should already remove these. If one survives, fail the build.
+ACTIVE_CONTENT = re.compile(r"(?i)<script|javascript:|vbscript:|\bon\w+\s*=\s*[\"']")
 
 # (tab label, Markdown source, output file). The first entry is the home page.
 TABS = [
@@ -61,13 +66,15 @@ footer { max-width:860px; margin:0 auto; padding:0 24px 32px; color:var(--muted)
 def render_fragment(source: pathlib.Path) -> str:
     """Convert one Markdown file to an HTML fragment. Fails loudly if pandoc does."""
     proc = subprocess.run(
-        ["pandoc", "--from", "gfm", "--to", "html5", str(source)],
+        ["pandoc", "--from", "gfm", "--to", "html5", "--lua-filter", str(SANITIZER), str(source)],
         capture_output=True,
         text=True,
         check=False,
     )
     if proc.returncode != 0:
         raise SystemExit(f"pandoc failed for {source}: {proc.stderr.strip()}")
+    if ACTIVE_CONTENT.search(proc.stdout):
+        raise SystemExit(f"active content survived sanitising in {source}; refusing to build")
     return proc.stdout
 
 
