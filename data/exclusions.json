@@ -1,0 +1,152 @@
+[
+  {
+    "fullName": "rea-githu/REA",
+    "reason": "download lure: repository description says 'Official free download' and sells a 'local MCP zip'; README says 'Download the x64 zip'. Not the upstream release (morluto/rea), which is distributed through npm and GitHub releases.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "MG-Cafe/blog",
+    "reason": "borderline, excluded as a download lure: a blog post whose only REA artifact is a 'Download the zip' link to a skill archive on a personal domain. Not a REA project and not verifiable from the upstream release. Remove this entry to restore it.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "JackyST0/awesome-agent-skills",
+    "reason": "unrelated: general list of agent skills; REA is not its subject.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "VoltAgent/awesome-agent-skills",
+    "reason": "unrelated: general list of agent skills; REA is not its subject.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "korchasa/awesome-ai-agents",
+    "reason": "unrelated: general list of AI agents; REA is not its subject.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "laolaoshiren/claude-code-skills-zh",
+    "reason": "unrelated: general Chinese list of Claude Code skills; REA is not its subject.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "sickn33/agentic-awesome-skills",
+    "reason": "unrelated: general skill collection; REA is one skill among many.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "b1ank1108/awesome-stars",
+    "reason": "unrelated: classifier of one user's starred repositories; REA is not its subject.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "CrackerCat/feed",
+    "reason": "unrelated: auto-generated GitHub activity feed page, not a project.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "cxyfreedom/website-hot-hub",
+    "reason": "unrelated: unrelated site; mentions REA only in passing.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "LockBlock-dev/pkg-unpacker",
+    "reason": "unrelated: unrelated tool for unpacking pkg applications.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "omkar273/shepherd",
+    "reason": "unrelated: unrelated project; mentions REA only in passing.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "shenxingy/Clade",
+    "reason": "unrelated: unrelated project; mentions REA only in passing.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "brignano/ai-tools",
+    "reason": "unrelated: unrelated project; mentions REA only in passing.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "bitbytelabio/arsenal",
+    "reason": "unrelated: unrelated project; no REA usage in README.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "AdamLinCodes/AdamTerm",
+    "reason": "unrelated: unrelated project; mentions REA only in passing.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "iammukeshm/hexgrab",
+    "reason": "unrelated: unrelated project; mentions REA only in passing.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "AHMADALIPARR/rea-unary",
+    "reason": "unrelated: single passing REA mention; no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "laaielichter/reverseport",
+    "reason": "unrelated: single passing REA mention; no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "ReverseEngineeringAI/REA.tools.Project",
+    "reason": "unrelated: only a link list to one video; no REA content of its own.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "detreaba/unbuild",
+    "reason": "unrelated: generic phrase match only; no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "Tetraslam/re-zero",
+    "reason": "unrelated: generic phrase match only; no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "arwinwijaya/maw-rea",
+    "reason": "unrelated: generic phrase match only; no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "felvieira/claude-skills-fv",
+    "reason": "unrelated: generic skill collection; no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "techupdate24/reverse-engineer-anything-tool-analysis",
+    "reason": "unrelated: generic phrase match only; article-style page, no REA usage.",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "Pothome/morluto-rea",
+    "reason": "mirror: edited copy of upstream README (same heading and structure), not a separate project. verified 2026-10-14",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "adefemi-dev/Morluto-Rea",
+    "reason": "mirror: edited copy of upstream README (same heading and structure), not a separate project. verified 2026-10-14",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "ai-integr8tor/morluto_Reverse_Engineer_Anything",
+    "reason": "mirror: edited copy of upstream README (same heading and structure), not a separate project. verified 2026-10-14",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "ALC-kcurtis/rea",
+    "reason": "mirror: edited copy of upstream README (same heading and structure), not a separate project. verified 2026-10-14",
+    "verified": "2026-10-14"
+  },
+  {
+    "fullName": "avatonqp/rea",
+    "reason": "mirror: edited copy of upstream README (same heading and structure), not a separate project. verified 2026-10-14",
+    "verified": "2026-10-14"
+  }
+]

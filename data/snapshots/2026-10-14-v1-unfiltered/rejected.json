@@ -1,0 +1,873 @@
+[
+  {
+    "fullName": "AdrianOrenstein/toward-agents-reasoning-about-compute",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "AkiKurisu/Real-Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Anaskaysar/New-Rentoor-Real-Estate-Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "AnisBoubaker/REA",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "AnisBoubaker/REAModeler",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Automattic/big-sky-agents-react",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Azure-Samples/openai-realtime-agents-chainlit2",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Berkanktk/BeReal-Fetcher",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ]
+  },
+  {
+    "fullName": "BitterSecurity/Decepticon",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "Blind-Creator-Inc/react-blind-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "C-byChloe/realityai-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Cometdev312/Dappier-MCP-Server-Real-Time-Web-Market-Data-for-AI-Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Cre4T3Tiv3/ai-agents-reality-check",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "EdwinB12/Agents-Reading-Group",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Eotebndd/agents_reasoning",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "EstebanForge/AGENTS",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "FrancoStino/opencode-skills-collection",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "GGGODLIN/cli-foundry",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ]
+  },
+  {
+    "fullName": "GiadaSimionato/Reasoning_Agents_2020",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "HaoZhang615/Realtime-Synthetic-Call-Center-Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "HarnessMD/munder-difflin",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "HarshChoudhary2003/Real-world-AI-agents-hub",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "IBM/Breaking-ReAct-Agents-FITD",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "ImChong/Robotics_Notebooks",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "KillerPixelCrew/ReScaleFrame",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "Kladdkaka/reverse-engineering-tools",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\""
+    ]
+  },
+  {
+    "fullName": "Leon-Drq/openagentskill",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "LinkedInLearning/build-with-ai-reasoning-models-for-ai-agents-5416179",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "LinkedInLearning/openai-realtime-api-building-voice-agents-with-realtime-api-and-the-agents-sdk-7612003",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "MayankSingh-coder/react-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Mayhem929/ReactiveDeliberativeAgents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "MilkSU-Official/milksu",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "Mina-kk/yuedu-MCP",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "Moxnatiy/OpenBattlefield2",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "NanGePlus/ReActAgentsTest",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "PacktPublishing/Build-Real-world-End-to-End-AI-Agents-using-AWS-Bedrock",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "PacktPublishing/Practical-AI-Agents-2026---Build-Automated-Agentic-Workflows-for-Real-Results",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Qubit-007/ORCA-Marine-EcOsystem-Reasoning-with-Collaborative-Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "RLNarasimham/Smart-Mini-Agents-Applying-AI-to-Real-Life-Tasks",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "RamziRebai/MultiAgents-Chatbot-and-RealTime-Data-Analytics",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Ridarketh/-real-world-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Sensorica/nondominium",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "SimonSchubert/LinuxCommandLibrary",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "Snowflake-Labs/awesome-custom-cortex-agents-rest-api-react-app",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "Snowflake-Labs/sfguide-getting-started-with-cortex-agents-and-react",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "StephenQSstarThomas/Agents-Readthedocs.io",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "THEjacob1000/dotfiles",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "The-Art-of-Hacking/h4cker",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "Vitokaro/maquina-datos-secretos",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "WinFuture23/real-world-user-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "ahastudio/til",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "aniket-work/Lets_Build_Real_Estate_Advisor_Company_Using_AI_Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "aniket-work/Real-Time-Context-Aware-AI-Agents-Searching-Scraping-and-Synthesizing-for-Precision",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "anjijava16/itsm-relay-agent-orchestor",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "antrea-io/antrea",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "bivex/ILSpy-Mcp",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ]
+  },
+  {
+    "fullName": "boisenoise/skills-collections",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "brcampidelli/chimera-agent",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "breck7/zombo",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ]
+  },
+  {
+    "fullName": "chaoshu1201/reasoning-and-agents-education",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "cometapi-dev/cometapi-realtime-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "cristianoleamiranda-dotcom/Rae",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "databricks-solutions/realtime-rag-agents-databricks-youcom",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "daymade/claude-code-skills",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "dhangerkapil/ai-agents-reasoning-models",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "diogohudson/python-react-ts-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "django-rea/rea-app",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "dtmurphy6/the_real_estate_agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "dylanelu/realtime-speech-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "gabrielmoreira/agent-skills-mirror",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "gameworkerkim/vibe-investing",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "ganeshmshetty/openclip",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "georgetsouvaltzis/agents-react-pattern",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "gonzalo123/ReAct-AI-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "gracaliffo94/Reasoning-Agents-Project",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "grisuno/LazyOwn",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "hardcoreerik/OrcSDR",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "hoangtng/real-estate-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "hyichao/Reverse-Engineering-Tool",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\""
+    ]
+  },
+  {
+    "fullName": "igalonso/react-agents-demo-vertex",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "ilcande/ilcande-react-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "iusztinpaul/designing-real-world-ai-agents-workshop",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "kay6888/Back-to-Front",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ]
+  },
+  {
+    "fullName": "kylecampbell/cloudflare-realtime-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "lesteroliver911/agno-reasoning-agents-local",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "limingzhong61/hello-agents-read",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "lvruyi0102/nova_mind_chat",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "maheshwarimrinal/react-native-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "malek-alhu/marketplace-phaas-tracker",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "martinacostadev/claude-react-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "microsoft/Build26-BRK223-from-rows-to-reasoning-designing-databases-for-ai-apps-and-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "microsoft/Build26-LAB530-engineering-agents-that-reason-act-and-adapt",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "microsoft/Build26-OD819-real-time-intelligence-building-event-driven-ai-apps-and-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "microsoft/aitour26-BRK445-building-enterprise-ready-ai-agents-with-microsoft-foundry",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "microsoft/ignite25-LAB565-makers-in-action-crafting-microsoft-365-copilot-agents-for-real-world",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "morluto/rea",
+    "reason": "upstream project itself"
+  },
+  {
+    "fullName": "nesaon03/XYREVERSE",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "neural-maze/realtime-phone-agents-course",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "nkapila6/reachy-mini-11labs-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "oelbourki/Real-Estate-AI-Deep-Agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "open-fox/agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "openai/openai-realtime-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "oyi77/1ai-skills",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "raiinman/skill-library",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "redmaplewww/DeepReason-Agents-Framework",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "riasatislam/ebu6505-reasoning-and-agents-2025-2026-sem-2",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "riasatislam/ebu6505-reasoning-and-agents-2026-2027-sem-1",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "rthomas24/realtime-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "samelhousseini/gpt-realtime-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "satyajitghana/ai",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "sguys99/ai-wiki",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "shaheennabi/Production-Ready-LeafLogic-Multi-AI-Agents-Project",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "shaheennabi/Production-Ready-TripPlanner-Multi-AI-Agents-Project",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "shreyvijayvargiya/reverse-engineer-crm",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ]
+  },
+  {
+    "fullName": "smatiolids/ai-agents-react",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "ttmens/ai-radar-wiki",
+    "reason": "README does not name REA",
+    "found_by": [
+      "code"
+    ]
+  },
+  {
+    "fullName": "tylerjrbuell/reactive-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "tylerjrbuell/reactive-agents-ts",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "unravel-team/real-agents-workshop",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "vincentiroleh/ghw-agents-real-apis",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "whyliuxing/reverse-engineering-journal",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\""
+    ]
+  },
+  {
+    "fullName": "xiwangone/reasonix-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "yakovsinwani/realtime-voice-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  },
+  {
+    "fullName": "zhangutah/LLM-reasoning-agents",
+    "reason": "README does not name REA",
+    "found_by": [
+      "repo:rea-agents"
+    ]
+  }
+]

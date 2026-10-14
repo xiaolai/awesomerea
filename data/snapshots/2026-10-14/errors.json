@@ -1,0 +1,92 @@
+[
+  {
+    "stage": "code-search",
+    "query": "reverse-engineer-anything",
+    "error": "gh search code reverse-engineer-anything --limit 100 --json repository,path failed (1): HTTP 403: API rate limit exceeded for user ID 152970. If you reach out to GitHub Support for help, please include the request ID A9FD:2A910A:106869:10E795:6ACF47C5 and timestamp 2026-10-14 09:13:41 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) (https://api.github.com/search/code?page=1&per_page=100&q=reverse-engineer-anything)"
+  },
+  {
+    "stage": "readme",
+    "repo": "BoostedBliss/livekit-realtime-voice-agents",
+    "error": "gh api repos/BoostedBliss/livekit-realtime-voice-agents/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "Gerrard-Lewu/reverse-engineer-anything",
+    "error": "gh api repos/Gerrard-Lewu/reverse-engineer-anything/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "Mico52000/React_Agents",
+    "error": "gh api repos/Mico52000/React_Agents/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "Web-Interactive-Systems/but2-guide-ai-react-tp-web-multi-agents-scaffold",
+    "error": "gh api repos/Web-Interactive-Systems/but2-guide-ai-react-tp-web-multi-agents-scaffold/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "chrishayuk/how-react-agents-work",
+    "error": "gh api repos/chrishayuk/how-react-agents-work/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "dany331x/tracebrief-rea-port",
+    "error": "gh api repos/dany331x/tracebrief-rea-port/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "junaid-bacha/reverse-engineer-anything",
+    "error": "gh api repos/junaid-bacha/reverse-engineer-anything/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "makimeaqua/rea-empty-placeholder",
+    "error": "gh api repos/makimeaqua/rea-empty-placeholder/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "mtlapinski/cf-agentsdk-realestate",
+    "error": "gh api repos/mtlapinski/cf-agentsdk-realestate/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "muhammadsalman1212/realtor.com-agents-scraping",
+    "error": "gh api repos/muhammadsalman1212/realtor.com-agents-scraping/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "nix-community/nur-combined",
+    "error": "gh api repos/nix-community/nur-combined/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "putualgoritma/USADHA-Agents-ReactNative",
+    "error": "gh api repos/putualgoritma/USADHA-Agents-ReactNative/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "shihyu/jason_note",
+    "error": "gh api repos/shihyu/jason_note/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "shotsmic-hue/real-agents1",
+    "error": "gh api repos/shotsmic-hue/real-agents1/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "stuinfla/morluto-rea-explainer",
+    "error": "gh api repos/stuinfla/morluto-rea-explainer/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "xislam/Real_estate_agents",
+    "error": "gh api repos/xislam/Real_estate_agents/readme failed (1): gh: Not Found (HTTP 404)"
+  },
+  {
+    "stage": "readme",
+    "repo": "zhxtl/https-github.com-morluto-rea",
+    "error": "gh api repos/zhxtl/https-github.com-morluto-rea/readme failed (1): gh: Not Found (HTTP 404)"
+  }
+]

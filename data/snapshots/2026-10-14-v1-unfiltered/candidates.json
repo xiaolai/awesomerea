@@ -1,0 +1,714 @@
+[
+  {
+    "fullName": "ringozzt/rea-research",
+    "url": "https://github.com/ringozzt/rea-research",
+    "description": "REA (Reverse Engineer Anything) 深度技术调研：让 AI coding agent 无源码逆向软件的 MCP 工具链",
+    "stars": 41,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-11T06:58:47Z",
+    "found_by": [
+      "repo:rea-agents",
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "5.0.0",
+      "6.0.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "valorisa/Reverse-Engineer-Anything",
+    "url": "https://github.com/valorisa/Reverse-Engineer-Anything",
+    "description": "Guide pédagogique non officiel en français sur REA (Reverse Engineer Anything) : analyser des applications et des binaires avec un agent de code via MCP et CLI, Hopper ou Ghidra, preuves à l'appui. Inclut le cadre légal de la rétro-ingénierie. Projet amont : morluto/rea.",
+    "stars": 16,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-09T19:49:26Z",
+    "found_by": [
+      "repo:rea-agents",
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:morluto/rea",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "3.1.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "47thtechcorner/RayCodes_Rea-AI-Agent-Setup",
+    "url": "https://github.com/47thtechcorner/RayCodes_Rea-AI-Agent-Setup",
+    "description": "Clone ANY Website UI in Seconds! (REA AI Agent Setup) - Passive browser inspection and UI reconstruction of ultra-clean SaaS pricing layouts using REA & CDP.",
+    "stars": 10,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-09T10:03:50Z",
+    "found_by": [
+      "repo:rea-agents"
+    ],
+    "relevance_matches": [
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "czcdr/dsh-plugin-rea",
+    "url": "https://github.com/czcdr/dsh-plugin-rea",
+    "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
+    "stars": 5,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T05:41:36Z",
+    "found_by": [
+      "repo:morluto/rea"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "22.19.0",
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "NullLabTests/OpenBSD_netcat_REA",
+    "url": "https://github.com/NullLabTests/OpenBSD_netcat_REA",
+    "description": "Reverse-engineering the netcat-openbsd 1.234-1 binary with REA (Reverse Engineer Anything) + Ghidra",
+    "stars": 3,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-09T21:09:28Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "12.1.4",
+      "6.2.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "pablodiazjorge/rea-lab",
+    "url": "https://github.com/pablodiazjorge/rea-lab",
+    "description": "Reverse engineering with AI agents on Windows: verifying, measuring and visualising the tools agents use, with rea and Ghidra",
+    "stars": 3,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T05:22:53Z",
+    "found_by": [
+      "repo:rea-agents"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b"
+    ],
+    "rea_versions_mentioned": [
+      "1.0.0",
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "dav1dngy/era-agent",
+    "url": "https://github.com/dav1dngy/era-agent",
+    "description": "ERA – Evolve & Reverse Engineer Anything: an AI-powered reverse-engineering agent built on REA, with a controlled, evidence-driven Improvement Lab. Reverse. Analyze. Evolve. Repeat.",
+    "stars": 2,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T00:29:04Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "Fanqi89/dsh-rea",
+    "url": "https://github.com/Fanqi89/dsh-rea",
+    "description": "REA (Reverse Engineer Anything) MCP bridge for DeepSeek Harness — 接入 REA 逆向工具的 DSH 插件",
+    "stars": 2,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T08:54:03Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "1.0.0",
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "sheilacraig/dsh-rea-mcp",
+    "url": "https://github.com/sheilacraig/dsh-rea-mcp",
+    "description": "Config-only DeepSeek Harness bundle that mounts the in-box MCP client bridge against morluto/rea — reverse engineer anything with agents; no plugin code.",
+    "stars": 2,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T03:00:55Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:morluto/rea",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "sqwu/rea-gems",
+    "url": "https://github.com/sqwu/rea-gems",
+    "description": "A curated, auto-updated gallery of excellent reverse-engineering cases built with REA (reverse engineer anything) - refreshed daily by GitHub Actions",
+    "stars": 2,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T10:35:35Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "zhaofeng130/dsh-rea",
+    "url": "https://github.com/zhaofeng130/dsh-rea",
+    "description": "DeepSeek Harness adapter for REA (rea-agents): registers the reverse-engineer-anything skill plus the rea / rea_doctor tools in every session. REA itself is not bundled.",
+    "stars": 2,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-10T12:38:14Z",
+    "found_by": [
+      "repo:rea-agents",
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "22.19.0",
+      "6.3.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "inematds/rea-engenharia-reversa",
+    "url": "https://github.com/inematds/rea-engenharia-reversa",
+    "description": "REA (Reverse Engineer Anything) explicado em PT/EN/ES: engenharia reversa com agentes de IA + Ghidra — links, casos, avaliação e cuidados",
+    "stars": 1,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T23:23:19Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "6.3.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "miles990/rea-case-rankings",
+    "url": "https://github.com/miles990/rea-case-rankings",
+    "description": "What people build and discover with REA (Reverse Engineer Anything): a daily-updated, scored ranking of cases, apps and write-ups.",
+    "stars": 1,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T04:36:53Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "Sage-is/CleanRoom",
+    "url": "https://github.com/Sage-is/CleanRoom",
+    "description": "Reverse-engineer anything, locally: a DRY/KISS MCP server and CLI with pageable Evidence (Python reimplementation of rea)",
+    "stars": 1,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-11T00:54:56Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "sickpyramid/ReaFuse",
+    "url": "https://github.com/sickpyramid/ReaFuse",
+    "description": "Built on REA (Reverse Engineer Anything): dissect two projects, fuse their capabilities, and grow a brand-new verified creature.",
+    "stars": 1,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T08:30:50Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "ya123-4/rea-dsh-plugin",
+    "url": "https://github.com/ya123-4/rea-dsh-plugin",
+    "description": "DeepSeek Harness plugin for REA (rea-agents): registers the REA MCP server as mcp__rea__* tools and bundles the reverse-engineer-anything agent skill in one install.",
+    "stars": 1,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-10T15:56:00Z",
+    "found_by": [
+      "repo:rea-agents",
+      "repo:\"Reverse Engineer Anything\""
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "0.1.0",
+      "6.3.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "ylwl1997/rea-run",
+    "url": "https://github.com/ylwl1997/rea-run",
+    "description": "Unofficial bilingual community docs for REA (Reverse Engineer Anything) — https://rea.run",
+    "stars": 1,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T04:01:38Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "848gaming/anti-rea",
+    "url": "https://github.com/848gaming/anti-rea",
+    "description": "Anti-REA Defense, Binary Armor & AES-256-GCM Code-Lock Toolkit (Flutter libapp.so scrubber, JADX overload traps, .NET BSJB/RAM host, Electron fuse hardener & AST blinder) countering morluto/rea.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T06:13:32Z",
+    "found_by": [
+      "repo:morluto/rea"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "alexmi256/rea-agent-docker",
+    "url": "https://github.com/alexmi256/rea-agent-docker",
+    "description": "REA (Reverse Engineer Anything) in Docker: one image per analysis engine (Ghidra / Hopper / IDA) with a full reverse-engineering toolchain, MCP-ready for Hermes and other agents.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T02:17:44Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "0.13.0",
+      "2.0.0",
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "Asymmetrical-1024/awsome-REA",
+    "url": "https://github.com/Asymmetrical-1024/awsome-REA",
+    "description": "REA (Reverse Engineer Anything) 案例合集：X 原帖、官方证据、真实截图与验证边界",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T05:22:35Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\""
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "az9713/REA-demo",
+    "url": "https://github.com/az9713/REA-demo",
+    "description": "Receipt: REA (rea-agents 6.3.0) reverse-engineers its own provider selection",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-11T04:24:29Z",
+    "found_by": [
+      "repo:rea-agents"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "6.3.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "bioassembly/antigravity-sage",
+    "url": "https://github.com/bioassembly/antigravity-sage",
+    "description": "",
+    "stars": null,
+    "isFork": null,
+    "isArchived": null,
+    "pushedAt": null,
+    "found_by": [
+      "code"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "caixuf/dsh-rea",
+    "url": "https://github.com/caixuf/dsh-rea",
+    "description": "DSH plugin for REA (Reverse Engineer Anything) — Native Binary, Android APK, and Web/Electron static reverse engineering tools for AI agents.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T10:29:26Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "cognixws/picode-rea",
+    "url": "https://github.com/cognixws/picode-rea",
+    "description": "PiCode extension: reverse engineer shipped apps with REA (rea-agents 6.1.0, static tools only)",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-09T16:41:19Z",
+    "found_by": [
+      "repo:rea-agents"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "6.1.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "danihelenterprises/die-a-rea",
+    "url": "https://github.com/danihelenterprises/die-a-rea",
+    "description": "Decompiler Interference Engine Anti Reverse-Engineer Anything",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T21:08:27Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "dazeb/rea-codex-plugin",
+    "url": "https://github.com/dazeb/rea-codex-plugin",
+    "description": "Standalone Codex plugin marketplace for REA by morluto, with pinned MCP server and investigation skills.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-10T09:57:22Z",
+    "found_by": [
+      "repo:morluto/rea"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "6.3.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "dmcchesney96/Reverse-engineer-anything",
+    "url": "https://github.com/dmcchesney96/Reverse-engineer-anything",
+    "description": "",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-12T21:02:13Z",
+    "found_by": [
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "moonfruit/homebrew-tap",
+    "url": "https://github.com/moonfruit/homebrew-tap",
+    "description": "",
+    "stars": null,
+    "isFork": null,
+    "isArchived": null,
+    "pushedAt": null,
+    "found_by": [
+      "code"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "Nowng/rea-mcp",
+    "url": "https://github.com/Nowng/rea-mcp",
+    "description": "REA: Reverse Engineer Anything MCP server for LM Studio.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T05:20:32Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "UnknownHacker1/rea-groundtruth",
+    "url": "https://github.com/UnknownHacker1/rea-groundtruth",
+    "description": "Checking what REA (Reverse Engineer Anything) reports against what's actually in the code. One-command repros for its blind spots.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-13T18:33:13Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "ylwl1997/rea-run-lab",
+    "url": "https://github.com/ylwl1997/rea-run-lab",
+    "description": "Codespaces lab for REA (rea-agents): bundled self-owned Electron demo only",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-10T09:35:34Z",
+    "found_by": [
+      "repo:rea-agents"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "Zfinix/eleven",
+    "url": "https://github.com/Zfinix/eleven",
+    "description": "",
+    "stars": null,
+    "isFork": null,
+    "isArchived": null,
+    "pushedAt": null,
+    "found_by": [
+      "code"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b"
+    ],
+    "rea_versions_mentioned": [],
+    "suspicion_flags": [
+      "pipe-to-shell"
+    ],
+    "status": "needs-human-review"
+  },
+  {
+    "fullName": "ZooHero500/reatool",
+    "url": "https://github.com/ZooHero500/reatool",
+    "description": "Unofficial REA tutorials and comparisons for installing and using Reverse Engineer Anything with coding agents.",
+    "stars": 0,
+    "isFork": false,
+    "isArchived": false,
+    "pushedAt": "2026-10-14T05:59:13Z",
+    "found_by": [
+      "repo:\"Reverse Engineer Anything\"",
+      "repo:reverse-engineer-anything"
+    ],
+    "relevance_matches": [
+      "morluto/rea\\b",
+      "\\brea-agents\\b",
+      "reverse engineer anything"
+    ],
+    "rea_versions_mentioned": [
+      "6.2.0",
+      "6.2.2",
+      "6.4.0"
+    ],
+    "suspicion_flags": [],
+    "status": "needs-human-review"
+  }
+]
