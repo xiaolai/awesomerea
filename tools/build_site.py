@@ -22,6 +22,23 @@ SANITIZER = ROOT / "tools" / "sanitize.lua"
 
 # Defence in depth: the filter should already remove these. If one survives, fail the build.
 ACTIVE_CONTENT = re.compile(r"(?i)<script|javascript:|vbscript:|\bon\w+\s*=\s*[\"']")
+URL_ATTRIBUTE = re.compile(r'\b(?:href|src)\s*=\s*"([^"]*)"', re.IGNORECASE)
+ALLOWED_SCHEMES = {"http", "https", "mailto"}
+
+
+def first_unsafe_url(fragment: str) -> str | None:
+    """Return the first href or src whose scheme could run script, or None.
+
+    This reads the HTML the browser will read, so it is independent of the pandoc filter
+    and catches what a filter's parse of the Markdown might miss.
+    """
+    for match in URL_ATTRIBUTE.finditer(fragment):
+        value = html.unescape(match.group(1))
+        normalised = re.sub(r"[\x00-\x20\x7f]", "", value).lower()
+        scheme = re.match(r"([a-z][a-z0-9+.-]*):", normalised)
+        if scheme and scheme.group(1) not in ALLOWED_SCHEMES:
+            return value
+    return None
 
 # (tab label, Markdown source, output file). The first entry is the home page.
 TABS = [
@@ -75,6 +92,9 @@ def render_fragment(source: pathlib.Path) -> str:
         raise SystemExit(f"pandoc failed for {source}: {proc.stderr.strip()}")
     if ACTIVE_CONTENT.search(proc.stdout):
         raise SystemExit(f"active content survived sanitising in {source}; refusing to build")
+    unsafe = first_unsafe_url(proc.stdout)
+    if unsafe is not None:
+        raise SystemExit(f"unsafe URL survived sanitising in {source}: {unsafe!r}; refusing to build")
     return proc.stdout
 
 
